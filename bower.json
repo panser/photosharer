@@ -16,6 +16,7 @@
     "tests"
   ],
   "dependencies": {
-    "ratchet": "^2.0.2"
+    "ratchet": "^2.0.2",
+    "jQuery": "^3.1.0"
   }
 }
