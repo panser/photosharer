@@ -1,0 +1,18 @@
+{
+  "name": "photosharer",
+  "homepage": "https://github.com/panser/photosharer",
+  "authors": [
+    "Sergey Panov <gostroy@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
